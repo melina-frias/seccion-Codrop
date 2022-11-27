@@ -28,10 +28,9 @@ div>button{
   background-color: rgb(72, 178, 228);
   border: 1px solid rgb(72, 178, 228);
   border-radius: 20px;
-  /**padding: 8px;/**/
-  
-/**
-}**/
+  padding: 8px;
+
+}*/
 
 section h1{
     color: rgb(17, 49, 74);
@@ -60,11 +59,8 @@ span{
  .boxfather{
    display: flex;
    flex-wrap: wrap;
-   flex-direction: row;
    justify-content: space-between;
    margin-bottom: 30px;
-   
-      
  }
 
 .box{
@@ -77,6 +73,7 @@ span{
    width: 376px;
    height: 276px;
    margin-bottom: 30px;
+   
    
    
   } 
@@ -100,8 +97,8 @@ span{
    font-family: 'Times New Roman', Times, serif;
    font-size: 18px;
    line-height: 35px;
-   margin-left: 50px;
-   margin-right: 50px;
+   margin-left: 48px;
+   margin-right: 48px;
  }
  
  .icon{
