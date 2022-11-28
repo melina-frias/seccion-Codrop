@@ -11,7 +11,7 @@ body{
    background-color: white;
 
 }
-
+/*
 header{
   background-color: rgb(34, 78, 112);
   padding: 15px;
@@ -20,7 +20,7 @@ header{
 header>h1{
   color: white;
   
-}
+}*/
 /*
 div>button{
   font-size: 10px;
@@ -55,7 +55,7 @@ span{
     font-family: 'Times New Roman', Times, serif; 
     font-size: 20px;
     margin-bottom: 80px;
- }
+}
 
  .boxfather{
    display: flex;
@@ -63,8 +63,7 @@ span{
    justify-content: space-between;
    margin-bottom: 30px;
    
-   
- }
+}
 
 .box{
    background-color: white;
@@ -77,14 +76,12 @@ span{
    height: 276px;
    margin-bottom: 30px;
    
-   
-   
-  } 
+} 
  
   .box:hover{
     transform: translateY(-5%);
     transition: 0.5s
-  }
+}
 
  h3{
    color: rgb(17, 49, 74);
@@ -93,7 +90,7 @@ span{
    margin-top: 20px;
    margin-bottom: 25px;
   
-   }
+}
     
  h3+p{
    color: rgb(131, 130, 130);
@@ -102,14 +99,14 @@ span{
    line-height: 35px;
    margin-left: 48px;
    margin-right: 48px;
- }
+}
  
  .icon{
   align-items: center;
   margin-top: 40px;
   font-size: 50px;
   color: rgb(72, 178, 228);
- }
+}
 
  .button{
   text-align: center;
