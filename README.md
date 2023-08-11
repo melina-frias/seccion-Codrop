@@ -1,12 +1,9 @@
 Link: https://melina-frias.github.io/web-flex-box/
 
-# Recreación de la Sección de Inicio de Codrop
-
-Este proyecto consiste en la recreación de una sección de la página de Codrop, específicamente la sección que puedes encontrar en (https://codrop.webps.info/#overview).
 
 ## Descripción
-
-En este proyecto, se ha recreado la sección de Codrop utilizando HTML y CSS. Esta sección destaca las características y ventajas del producto o servicio ofrecido por Codrop. Hemos utilizado iconos de Bootstrap y estilos personalizados para lograr una apariencia similar a la original.
+Este proyecto consiste en la recreación de una sección de la página de Codrop. (https://codrop.webps.info/#overview).
+Se llevó a cabo  utilizando HTML y CSS. Esta sección destaca las características y ventajas del producto o servicio ofrecido por Codrop. Se utilizaron iconos de Bootstrap y estilos personalizados para lograr una apariencia similar a la original.
 
 ## Características Clave
 
