@@ -63,7 +63,6 @@ span{
    flex-wrap: wrap;
    justify-content: space-between;
    margin-bottom: 30px;
-   
 }
 
 .box{
@@ -73,8 +72,9 @@ span{
    border-radius: 6px;
    box-shadow:  4px 4px 16px  rgba(236, 236, 236, 0.623);
    box-shadow:  -1px -1px 16px  rgba(236, 236, 236, 0.623);
-   width: 376px;
-   height: 276px;
+   width: 31%;
+   height: auto;
+   padding-bottom: 30px;
    margin-bottom: 30px;
    
 } 
@@ -140,7 +140,11 @@ a{
 
 
 
- 
+ @media(max-width:768px){
+  .box{
+    width:100%;
+  }
+ }
   
 
  
